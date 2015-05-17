@@ -13,7 +13,7 @@
             minIdle="1"
             maxWait="5000"
             username="postgres"
-            password=""
+            password="postgres"
             driverClassName="org.postgresql.Driver"
             validationQuery="SELECT 'OK'"
             testWhileIdle="true"
